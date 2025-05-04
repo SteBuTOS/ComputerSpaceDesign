@@ -1,3 +1,9 @@
+Credits where credits due: this is a fork of pong74ls phonomenal work on the Comper Space circuits.
+I indent, to add some very minor additions later on.
+
+pong74ls masters readme starts here:
+------------------------------------
+
 NOTE: These are the full design files, gerber outputs and the scans of the stripped down PCBs I used to verify the schematics.
 
 The schematics were made using Proteus Design Suite version 8.1 SP1 [Build 17358]. Hopefully newer versions can be used to view them.
