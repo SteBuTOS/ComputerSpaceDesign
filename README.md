@@ -2,7 +2,7 @@ Credits where credits due:
 
 This is a fork of pong74ls phonomenal work on the Comper Space circuits.
 
-I indent, to add some very minor additions in the near future. Planned add-ons:
+I intend, to add some very minor additions in the near future. Planned add-ons:
 - Back Plane PCB
 - Relais replacement PCB, based on 2N25 optokoppler
 - Test harness PCB (compatible with back plane PCB only)
