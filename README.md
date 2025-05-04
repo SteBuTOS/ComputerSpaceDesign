@@ -1,5 +1,12 @@
-Credits where credits due: this is a fork of pong74ls phonomenal work on the Comper Space circuits.
-I indent, to add some very minor additions later on.
+Credits where credits due: 
+
+This is a fork of pong74ls phonomenal work on the Comper Space circuits.
+
+I indent, to add some very minor additions in the near future. Planned add-ons:
+- Back Plane PCB
+- Relais replacement PCB, based on 2N25 optokoppler
+- Test harness PCB (compatible with back plane PCB only)
+- Handheld controller (reduced size, for testing environment)
 
 pong74ls masters readme starts here:
 ------------------------------------
