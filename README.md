@@ -3,12 +3,12 @@ Credits where credits due:
 This is a fork of pong74ls phonomenal work on the Comper Space circuits.
 
 I intend, to add some very minor additions. Planned add-ons:
-- Relais replacement PCB, based on 2N25 optocoupler
 - Test harness PCB (compatible with back plane PCB only)
 - Handheld controller (reduced size, for testing environment)
 
 Already added:
 - Back Plane PCB (folder Add-ons)
+- Relay Replacement (based on 2N25 optocoupler, folder Add-ons)
 - Started a Wiki for CS (work in progress)
 
 pong74ls masters readme starts here:
