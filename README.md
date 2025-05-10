@@ -1,6 +1,6 @@
 Credits where credits due: 
 
-This is a fork of pong74ls phonomenal work on the Comper Space circuits.
+This is a fork of pong74ls phenomenal work on the Comper Space circuits.
 
 I intend, to add some very minor additions. Planned add-ons:
 - Test harness PCB (compatible with back plane PCB only)
