@@ -9,7 +9,7 @@ Already added:
 - Back Plane PCB (folder Add-ons)
 - Test harness PCB (compatible with back plane PCB only)
 - Relay Replacement (based on 2N25 optocoupler, folder Add-ons)
-- Started a Wiki for CS (work in progress)
+- Started a Wiki for CS (work in progress: https://github.com/SteBuTOS/ComputerSpaceDesign/wiki )
 
 pong74ls masters readme starts here:
 ------------------------------------
