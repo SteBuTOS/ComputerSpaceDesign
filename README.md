@@ -12,7 +12,9 @@ Already added:
 - Started a Wiki for CS (work in progress: https://github.com/SteBuTOS/ComputerSpaceDesign/wiki )
 
 STL-Files for 3D-printing housing are available here:
+
 https://www.printables.com/model/1200359-computer-space-arcade-cabinet
+
 https://www.printables.com/model/1046309-computer-space-arcade-coin-return
 
 pong74ls masters readme starts here:
