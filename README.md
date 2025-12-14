@@ -3,7 +3,8 @@ Credits where credits due:
 This is a fork of pong74ls phenomenal work on the Comper Space circuits.
 
 I intend, to add some very minor additions. Planned add-ons:
-- Handheld controller (reduced size, for testing environment)
+- Handheld controller (reduced size, for testing environment))
+  Coming soon: https://github.com/SteBuTOS/ComputerSpaceDesign/Add-ons/CS-Controller/CS-Controller_manual_prerelease.pdf
 
 Already added:
 - Back Plane PCB (folder Add-ons)
