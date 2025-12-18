@@ -3,10 +3,12 @@ Credits where credits due:
 This is a fork of pong74ls phenomenal work on the Comper Space circuits.
 
 I intend, to add some very minor additions. Planned add-ons:
-- Handheld controller (reduced size, for testing environment))
-- Coming soon: [https://github.com/SteBuTOS/ComputerSpaceDesign/Add-ons/CS-Controller/CS-Controller_manual_prerelease.pdf](https://github.com/SteBuTOS/ComputerSpaceDesign/blob/master/Add-ons/CS-Controller/CS-Controller_manual_prerelease.pdf)
+
+Work in progress:
+- Cinch Jones Beau to IDC type adapter
 
 Already added:
+- Handheld controller (reduced size, for testing environment; folder Add-ons)
 - Back Plane PCB (folder Add-ons)
 - Test harness PCB (compatible with back plane PCB only)
 - Relay Replacement (based on 2N25 optocoupler, folder Add-ons)
@@ -17,6 +19,9 @@ STL-Files for 3D-printing housing are available here:
 https://www.printables.com/model/1200359-computer-space-arcade-cabinet
 
 https://www.printables.com/model/1046309-computer-space-arcade-coin-return
+
+https://www.printables.com/model/1520860-computer-space-handheld-controller
+
 
 pong74ls masters readme starts here:
 ------------------------------------
