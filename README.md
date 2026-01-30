@@ -6,6 +6,8 @@ I intend, to add some very minor additions. Planned add-ons:
 
 Work in progress:
 - Cinch Jones Beau to IDC type adapter
+- (Experimental) Interposer PCB for Sync-Board to fix the issue with scores beyond "9"
+  Extends the scores for Rocket and Saucer to a max of 99 counts with prober 2 digits display.
 
 Already added:
 - Handheld controller (reduced size, for testing environment; folder Add-ons)
