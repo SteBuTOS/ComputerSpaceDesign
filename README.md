@@ -6,12 +6,11 @@ I intend, to add some very minor additions. Planned add-ons:
 
 Work in progress:
 - Cinch Jones Beau to IDC type adapter
-- (Experimental) Interposer PCB for Sync-Board to fix the issue with scores beyond "9"
-  Extends the scores for Rocket and Saucer to a max of 99 counts with prober 2 digits display.
-
-Update: the Interposer PCB for two digits scores (0-99) is no longer experimental. After 4 board revisions I have a working prototype. The interposer PCB is compatible with all revision 1 Sync-boards (including the original boards from 1971). There will be some more testing and finetuning necessary before the Gerber files will be published on this GitHub repository. In addition a Youtube video will be prepared with a short demo and some background information. The Interposer PCB will make the connection to the Sync-board via male pin-headers to 8 IC sockets on the Sync-board. Besides of socketing those 8 IC's no other changes need to done to the Sync-board, so it's kind of a "minimally invasive" modification.
 
 Already added:
+- Interposer PCB for Sync-Board to fix the issue with scores beyond "9"
+  Extends the scores for Rocket and Saucer to a max of 99 counts with prober 2 digits display.
+  (folder Add-ons)
 - Handheld controller (reduced size, for testing environment; folder Add-ons)
 - Back Plane PCB (folder Add-ons)
 - Test harness PCB (compatible with back plane PCB only)
